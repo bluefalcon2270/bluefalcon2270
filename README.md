@@ -6,7 +6,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ### ⚡ What I Do
 * 🛡️ **Personal VPNs:** I create simple scripts to easily set up your own VPN on any server.
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -34,10 +34,9 @@
 <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
 <img src="https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
 
-<br><br>
+<br>
 
 ### 📊 GitHub Activity
-
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalcon2270&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </div>
