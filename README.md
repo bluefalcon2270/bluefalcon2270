@@ -1,10 +1,7 @@
-# 🦅 Hi, I am Blue Falcon
-
-### ⚡ What I Do
+<!-- ... existing code ... -->
 * **Personal VPNs:** I create simple scripts to easily set up your own VPN on any server.
-* **System Boosts:** I write code and apps to make your VPS faster and your Windows system better.
+* **System Boosts:** I write code and apps to optimize performance and improve your workflow across any platform or environment.
 * **Many Platforms:** I develop useful tools for Linux, Windows, OpenWrt, and more.
-* **Clear Tutorials:** I record easy-to-understand, step-by-step videos showing exactly how to use my scripts.
 
-### 🤝 Let's Connect
-* Want to see how these tools work? Watch my simple guides and learn with me on [YouTube](https://www.youtube.com/@BlueFalcon2270)!
+### 🤝 Let's Connect & Learn
+* Want to see how these tools work? I record easy-to-understand, step-by-step videos showing exactly how to use my scripts. Watch and learn with me on [<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" align="center" />](https://www.youtube.com/@BlueFalcon2270)!
