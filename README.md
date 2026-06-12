@@ -27,7 +27,6 @@
 
 <div align="center">
 
-### 📊 GitHub Activity
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalcon2270&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </div>
