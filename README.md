@@ -4,7 +4,6 @@
 
 </div>
 
-// ... existing code ...
 ### ⚡ What I Do
 * 🛡️ **Personal VPNs:** I create simple scripts to easily set up your own VPN on any server.
 * 🚀 **System Boosts:** I write code and apps to optimize performance and improve your workflow across any platform or environment.
