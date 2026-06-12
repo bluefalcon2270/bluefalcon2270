@@ -1,24 +1,12 @@
-# Hi there, I'm Blue Falcon 👋
+# Hi, I'm Blue Falcon 👋
 
-I develop automated scripts, tools, and step-by-step tutorials for VPS, Linux environments, Windows systems, and VPN configurations.
+I am a technical enthusiast and content creator focused on server administration, network protocols, and automation. 
 
-### 🚀 About Me
-* 💻 **Technical Focus:** Linux servers, OpenWrt, VPS management, and network protocols (OpenVPN, WireGuard, V2Ray).
-* 🎬 **Content Creator:** I produce detailed YouTube tutorials to simplify complex server and routing configurations.
-* 🛠️ **Current Work:** Building streamlined automation scripts and unified management tools.
-* 🌍 **Goal:** Making advanced networking deployments functional and accessible.
+### About Me
+* I write scripts and code to automate tasks across Linux, Windows, and VPS environments.
+* My core technical interests involve networking firmware and VPN routing protocols (including OpenWrt, OpenVPN, WireGuard, and V2Ray).
+* I manage a YouTube channel dedicated to creating step-by-step tech tutorials to make complex server and network configurations accessible to everyone.
+* I primarily work with Bash and Python to develop streamlined networking tools and management utilities.
 
-### 📺 Step-by-Step Tutorials
-* [Tutorial 1 Title: e.g., OpenWrt Server Setup] - [Link to Video]
-* [Tutorial 2 Title: e.g., Automated VPN Deployment] - [Link to Video]
-* Subscribe on [YouTube](https://www.youtube.com/@BlueFalcon2270)
-
-### 🛠️ Featured Projects
-* **AceHawk OpenWrt Utility:** A utility script for automated OpenWrt configurations and package management.
-* **OpenVPN Control Panel:** A functional deployment and management tool for OpenVPN servers.
-* **PassWall 2 Installer:** A consolidated installation and configuration script for advanced routing.
-
-### 💻 Tech Stack
-* **Operating Systems:** Linux, Windows, OpenWrt
-* **Networking & VPN:** OpenVPN, WireGuard, V2Ray
-* **Scripting & Automation:** Bash, Python
+### Connect
+* Watch my tutorials on [YouTube](https://www.youtube.com/@BlueFalcon2270)
