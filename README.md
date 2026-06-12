@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
 <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
 <img src="https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
-  <a href="https://www.youtube.com/@BlueFalcon2270">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
+<a href="https://www.youtube.com/@BlueFalcon2270">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+</a>
 
 </div>
 
@@ -21,16 +21,11 @@
 * 🛡️ **Personal VPNs:** I create simple scripts to easily set up your own VPN on any server.
 * 🚀 **System Boosts:** I write code and apps to optimize performance and improve your workflow across any platform or environment.
 * 💻 **Many Platforms:** I develop useful tools for Linux, Windows, OpenWrt, and more.
-* 🎓 **Let's Connect & Learn:** Want to see how these tools work? I record easy-to-understand, step-by-step videos showing exactly how to use my scripts. Watch and learn with me!
-
+* 🎓 **Step-by-Step Tutorials:** I record easy-to-follow, comprehensive video guides on my YouTube channel. These tutorials break down complex setups and show you exactly how to deploy and use my scripts effectively.
 
 <br>
 
 <div align="center">
-
-
-
-<br>
 
 ### 📊 GitHub Activity
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalcon2270&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
