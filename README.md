@@ -5,11 +5,14 @@
 </div>
 
 ### ⚡ What I Do
+
+<div align="center">
+  
 * 🛡️ **Personal VPNs:** I create simple scripts to easily set up your own VPN on any server.
 * 🚀 **System Boosts:** I write code and apps to optimize performance and improve your workflow across any platform or environment.
 * 💻 **Many Platforms:** I develop useful tools for Linux, Windows, OpenWrt, and more.
 
-<div align="center">
+</div>
 
 ### 🛠️ Languages & Technologies
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" /> 
